@@ -8,7 +8,6 @@ up()
 goto(-400,-80)
 down()
 
-#Gold Strip
 
 color("gold")
 begin_fill()
@@ -24,7 +23,8 @@ up()
 goto(-400,250)
 down()
 
-#Black Triangle
+
+
 color("black")
 begin_fill()
 forward(500)
